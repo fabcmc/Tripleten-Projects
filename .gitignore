@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Data Files (datasets) ---
+*.csv
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.json
+*.xml
+
+# SQLite or Python packets
+*.db
+*.sqlite
+*.sqlite3
+*.pickle
+*.pkl
